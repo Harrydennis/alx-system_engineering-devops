@@ -1,1 +1,1 @@
- a script that prints the absolute path name of the current
+ a script that changes the working directory to the user’s home directory
